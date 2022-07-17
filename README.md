@@ -28,6 +28,6 @@ As for solving the expression, a stack is used to evaluate the postfix notation 
 
 ![Graphing Calculator - Animated gif demo](demo/graphing-calc-demo.gif | width=400px)
 
-
+<img src='demo/graphing-calc-demo.gif' width="600">
 
 
