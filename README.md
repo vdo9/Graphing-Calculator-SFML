@@ -8,9 +8,16 @@ I'd like to document this project as my first official project as I've faced man
 
 What is the best way to condense my code? <br>
 Where should I write the methods? <br>
-When should I create as an object? <br>
+When should I create an object? <br>
+Should I include this logic in this part of the code? <br>
 
-## Features
+Currently, this graphing calculator can take the following expressions:
+| Type                 | Example                    | 
+| -------------------- |:--------------------------:| 
+| Polynomials (1 term) | X^2+3 ; X^3+1 ; 3*X^3+X^2+3| 
+| Trigonometric        | sin(X) ; cos(X) ; tan(X)   | 
+
+## How To Run The Graphing Calculator
 
 - Not Implemented:
   - what features have been implemented
