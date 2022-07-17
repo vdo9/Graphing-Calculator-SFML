@@ -6,9 +6,9 @@ As part of my final project for my advanced C++ course at Pasadena City College,
 
 I'd like to document this project as my first official project as I've faced many challenges and learned tremendously through creating this Graphing Calculator. The greatest challenge I faced and would like to continue working on is developing a better understanding on how to organize a project. Some questions I struggled with were:
 
-<i> What is the best way to condense my code? </i> <br>
-<i> Where should I write the methods? </i> <br>
-<i> What should I create as an object? </i> <br>
+What is the best way to condense my code? <br>
+Where should I write the methods? <br>
+When should I create as an object? <br>
 
 ## Features
 
