@@ -18,7 +18,9 @@ Currently, this graphing calculator can take the following expressions:
 | Trigonometric        | sin(X) ; cos(X) ; tan(X)   | 
 
 ## Demonstration of Shunting Yard and RPN Algorithm
-![alt text](http://url/to/img.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/1000px-Shunting_yard.svg.png)
+
+
 
 
 ## Example of Usage
