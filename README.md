@@ -1,7 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8027954&assignment_repo_type=AssignmentRepo)
-# Work Report
+# C++ Graphing Calculator Built with SFML Multimedia Library
 
-## Name: <ins> your_name_goes_here </ins>
+## Objective
+As part of my final project for my advanced C++ course at Pasadena City College, I created a Graphing Calculator using SFML, a simple API for creating games and various multimedia components. In my class, as a progression towards this final project, I developed a thorough understanding of pointers, classes & objects, friend functions & overloading operators, linked lists, stacks & queues, inheritance, and polymorphism. In order to implement a graphing calculator, I learned the shunting yard and rpn algorithm used to remodel and generate solutions to an expression.  
 
 ## Features
 

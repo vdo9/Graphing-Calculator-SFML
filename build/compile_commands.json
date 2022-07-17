@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/main.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/main.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/graph/graph.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/graph/graph.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/graph/graph.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/rpn/rpn.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/rpn/rpn.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/shunting_yard/shunting_yard.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/shunting_yard/shunting_yard.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/stub/stub.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/stub/stub.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/function.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/function.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/function.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/integer.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/integer.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/integer.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/leftparen.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/leftparen.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/leftparen.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/operator.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/operator.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/operator.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/rightparen.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/rightparen.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/rightparen.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/token.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/token.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/token/token.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/tokenizer/tokenizer.cpp.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/tokenizer/tokenizer.cpp",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/includes/tokenizer/tokenizer.cpp"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/include -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/SFML_INCLUDE_DIR -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/include -isystem /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/vido/Desktop/CS3A/Graphing-Calculator-SFML/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
