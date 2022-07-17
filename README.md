@@ -17,13 +17,13 @@ Currently, this graphing calculator can take the following expressions:
 | Polynomials (1 term) | X^2+3 ; X^3+1 ; 3*X^3+X^2+3| 
 | Trigonometric        | sin(X) ; cos(X) ; tan(X)   | 
 
-## Demonstration of Shunting Yard and RPN Algorithm
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/1000px-Shunting_yard.svg.png)
+## Explanation of Shunting Yard and RPN Algorithm
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/1000px-Shunting_yard.svg.png | width="300")
 
 
 
 
-## Example of Usage
+## Example of Graphing Calculator Usage
 
 
 
