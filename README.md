@@ -17,52 +17,13 @@ Currently, this graphing calculator can take the following expressions:
 | Polynomials (1 term) | X^2+3 ; X^3+1 ; 3*X^3+X^2+3| 
 | Trigonometric        | sin(X) ; cos(X) ; tan(X)   | 
 
-## How To Run The Graphing Calculator
-
-- Not Implemented:
-  - what features have been implemented
-
-<br><br>
-
-- Implemented:
-  - what has been implemented
-
-<br><br>
-
-- Partly implemented:
-  - what features have not been implemented
-
-<br><br>
-
-- Bugs
-  - Known bugs
-
-<br><br>
-
-# Reflections
-
-- Any thoughts you may have and would like to share.
+## Demonstration of Shunting Yard and RPN Algorithm
+![alt text](http://url/to/img.png)
 
 
-# Output
+## Example of Usage
 
-## main.cpp output:
-<pre>
-<br/><br/>
-## Delete this line and paste the output of your main here
-<br/><br/>
-</pre>
 
-## basic_test.cpp output:
-<pre>
-<br/><br/>
-## Delete this line and paste the output of your testB here
-<br/><br/>
-</pre>
 
-## testB.cpp output:
-<pre>
-<br/><br/>
-## Delete this line and paste the output of your basic test here
-<br/><br/>
-</pre>
+
+
