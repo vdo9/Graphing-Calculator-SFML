@@ -26,8 +26,6 @@ As for solving the expression, a stack is used to evaluate the postfix notation 
 
 ## Example of Graphing Calculator Usage
 
-![Graphing Calculator - Animated gif demo](demo/graphing-calc-demo.gif | width=400px)
-
-<img src='demo/graphing-calc-demo.gif' width="600">
+<img src='demo/graphing-calc-demo.gif' width="700">
 
 
