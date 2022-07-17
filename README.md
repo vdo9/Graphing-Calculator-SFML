@@ -25,7 +25,7 @@ The goal of the Shunting Yard (SY) algorithm is to take an expression in 'infix 
 As for solving the expression, a stack is used to evaluate the postfix notation also known as the RPN algorithm. While looping through the postfix notation, operands and operators are separated again. This time, when an operator is found, two operands are popped off from the stack and the operator is performed on them. This is done until the stack is empty, resulting in the solution. 
 
 ## Example of Graphing Calculator Usage
-
 <img src='demo/graphing-calc-demo.gif' width="700">
 
+In this demo usage of the Graphing Calculator, there is a textbox where the user can add an expression. Once the expression is entered, it is graphed and added to a history list. To view previous expressions, the user can click the previous expression and view the graph associated. Lastly, to clear the history list, the 'clear history' feature clears the history, graph, and textbox region. 
 
